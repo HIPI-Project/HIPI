@@ -1,0 +1,635 @@
+{
+	"domains": [
+		{
+			"domainName": "About The HIPI",
+			"dialogs": [
+				{
+					"message": "The Human Intelligence Protocol Interface (HIPI) is modeled around the Intelligence Algorithm which is designed to help humans collaborate in the most effective manner.",
+					"dialogs": [
+						{
+							"message": "What is the Intelligence Algorithm and how does it work?",
+							"dialogs": [
+								{
+									"message": "The Intelligence Algorithm is founded upon one fundamental idea.\n  1. It's impossible to be right outside of the moment.\n\n\nTruth By Default\n--------------------------------\nAll ideas (either Beliefs or Contradictions) begin in a state of TRUE because they are closest to the imagination which conceives them.  It doesn't matter what pattern of letters or words are used to comprise an idea, the algorithm always treats the entries as being \"right\" at the time they are added.\n\nIn it's simplest form, the Intelligence Algorithm works with a Message/Belief (singular) at the root and a linear chain of Contradictions (dual) are used to decide it's fate.  Beliefs start out as TRUE and flip to FALSE with a single valid Contradiction.  This creates a game of attrition because the trailing entry is always TRUE. \n\n\nContradictions\n------------------------------------------\nWhereas beliefs are singular, contradictions have dual polarity like a magnet or electricity.  Beliefs are constructive ideas while contradictions are destructive, designed to tear down beliefs and other contradictions too.  The \"negative\" aspect of a contradiction can be called an indexing mechanism for establishing the context of a mistake.  The \"positive\" section provides a reason to explain why it's not true.  \n\nThe Intelligence Algorithm relies on something called the Can't/Because protocol for arbitrating the fate of any entry.  This is an integral part of the Intelligence Algorithm which may see contradictions arranged in either a chain or tree formation.\n\nIt's important to recognize that a single contradiction has the power to take down any belief.  As powerful as a contradiction might be, remember that it's subjected to the same rules.  That is, it only takes one contradiction to invalidate another.  \n\nCan't/Because entries are separated by 1/2 steps whereby relatively odd cycles are offensive to the target and even cycles are defensive.  Adding a trailing contradiction to a linear chain of them will cause all of the statuses to reciprocate, inverting every entry, all the way back to the root belief.\n\n\nExample\n----------------------\n   FALSE = BELIEF: Elephants can fly\n\n       TRUE = (-) You can't say that elephants can fly\n               (+) because they don't have wings and their ears are flaccid. \n\n           FALSE = (-) You can't say that elephants need wings to fly\n                   (+) because they can be put on a cargo airplane.\n\n               TRUE = (-) You can't make a claim that \"elephants can fly\" and later on say that you meant within an airplane\n                      (+) because if you require additional context to make a statement true then it should be included from the outset. \n\n\nIt's Always Both\n------------------------------------\nThe example above demonstrates something else important.  If it's impossible to be right then the answer must always be both.  It's possible to add context and invert the truth of any statement.  However we can't just sit on the fence, people must pick a side and make their case.  The right answer may exist in flux for a period of time, but eventually attrition will leave one side left standing.  People will give up, sometimes in spite, once it becomes apparent that they are swimming upstream or making unappealing arguments.  This is the most intelligent way to determine what \"right\" means because it's based upon \"mistake avoidance\", not authority.  Where does the latter get the right from?",
+									"dialogs": [
+										{
+											"message": "You can't say that it's impossible to be right because everyone knows that 1+1=2.",
+											"reverseLinks": [
+												[
+													"The Human Intelligence Protocol ",
+													"What gives you the right to clai",
+													"The Intelligence Algorithm is fo",
+													[
+														"The Human Intelligence Protocol ",
+														"What is the Intelligence Algorit",
+														"The Intelligence Algorithm is fo",
+														"You can't say that it's impossib"
+													]
+												]
+											],
+											"dialogs": [
+												{
+													"message": "You can't say that 1+1=2 is always a right answer because how much is one apple plus one orange?",
+													"dialogs": [
+														{
+															"message": "That's not fair, you know that I meant 1+1=2 in an abstract sense.  You just added more context to make the numbers refer to things which are incompatible.",
+															"dialogs": [
+																{
+																	"message": "It's impossible to be right because context can flip any outcome to mean the opposite.  I could make the case that numbers are meaningless on their own, they need to refer to something tangible in the real world.",
+																	"dialogs": [
+																		{
+																			"message": "Fine, then I can claim that 1+1=2 is a right answer, providing that the numbers refer to \"objects\".",
+																			"dialogs": [
+																				{
+																					"message": "You can't say that 1+1=2 because in JavaScript I can say that \"1\"+\"1\" = \"11\".  In this case the numbers exist as a \"string\" data type, a derivative of an \"object\". \n\nI can invalidate any statement with sufficient context and you can do the same.  You know precisely what you meant in the moment, in fact it's impossible to be wrong within the imagination.  However, when you invert your imaginary beliefs into tangible memories they cannot stand as immutably correct from the perspective of all people and all contexts.\n\nAs you add additional context to narrow intent, the memories start accumulating.  The answer is always both, and from one perspective it can be said that adding more context (i.e. memories) merely provides a larger target for misinterpretation.  I normally wouldn't argue that 1+1 does not equal 2, however this is a debate about whether it's impossible to be right.  I won't back down on this point because it's happens to be a central tenant of the Intelligence Algorithm.",
+																					"dialogs": [
+																						{
+																							"message": "Why is the idea \"it's impossible to be right\" a central tenant of the Intelligence Algorithm?",
+																							"dialogs": [
+																								{
+																									"message": "It has been said by some that the seed of intelligent thought is the statement \"it's impossible to be right\".  If I say that it's impossible to be right then the very statement cannot be correct.  The only way to avoid a contradiction is to accept the notion of duality.\n\nTo make sense out of the statement, and duality, it becomes necessary to separate each side between inverse realms.  Inversion is the key and this originates between the transition of mind and matter.\n\n  X/1 = It's impossible to be wrong within the imagination.  At every fleeting moment in time, people are bound to make correct decisions within their momentary context of life experiences and genetics.\n\n  1/X = It's impossible to be right within the physical universe.  Once the moment has passed and a tangible memory has been created, it cannot be made to represent a universally correct answer from all possible perspectives/contexts.  Therefore all physical/tangible memories should fundamentally be treated as contradictions. \n\nSince \"right\" originates from the imagination it can be said that all statements are true-by-default because they are closest to the moment.  Yes, all memories and statements are fundamentally contradictions but it's always both and therefore it's possible perceive memories inversely, depending upon context.  Since every statement is true-by-default it means that the last word wins.  For this reason it can be said that the Intelligence Algorithm incites a game of attrition with contradictions alternating between TRUE/FALSE every half-step.",
+																									"dialogs": [
+																										{
+																											"message": "Choosing the statement, \"It's impossible to be right\", to be seed of intelligent thinking seems rather contrived because it complements your objective.  For example, I could just as easily choose another axiom which supports conventional wisdom, \"It IS possible to be right\", or maybe \"It's possible to be right with some things\".",
+																											"dialogs": [
+																												{
+																													"message": "The statement \"It's impossible to be right\" cannot be called an axiom because people are not expected to believe it without question.  It's about as close as one can get to the source of duality, unless we're talking about the imagination.  In the physical universe the answer is always both and that statement falls to one side, next to its inverse counterpart, \"It IS possible to be right\".\n\nRegardless of what statement I begin with it must be true in a global sense, meaning that it's applicable to every law, equation, problem, concept, etc.  Therefore, stating that \"it IS possible to be right\" must mean that I can be right that something else is wrong.  Either way leads to the same outcome.\n\nStating that it's possible to be right, but only with some things, creates a logical mess.  If two things are mostly similar, but one can be right and the other cannot, how can someone distinguish?  Where does \"right\" originate from?\n\nSuddenly things become clear when one is willing to assume that a person is always right in the moment, but once it has passed they cannot expect memories to represent something perfect/right for everyone else.  It's easy for people to agree upon something which is wrong or contradictory.  Therefore it makes sense that everyone should focus on being not-wrong instead of right, a subtle but but vital distinction.\n\nThink about a word, how do you know what the correct meaning is?  A dictionary contains definitions which are comprised of other words, all of which are defined with other words.  Of course it's possible to get really really close to right, but it can never quite be touched.",
+																													"dialogs": [
+																														{
+																															"message": "Our world is founded upon the notion of rights, rule of law, and authority.  Everyone knows that perfection is unattainable but we still have to make a stand or else order and control will descend into chaos.",
+																															"dialogs": [
+																																{
+																																	"message": "If it's impossible to be right then it makes no sense that our society should be founded on a fallacy.  Just because the world has worked one way until now doesn't mean that it has to continue.  There is a much better way of life waiting for mankind over the horizon.  \n\nThe discussion until now represents the tip of an iceberg due to the many questions and side-topics that will soon emerge.  The database you're currently using is just a simple example meant to get people familiar with this software.  If you'd like to continue this dialog please rename the following file in this application and refresh your browser.\n\nFrom\n/brain/Peace-On-Earth.json\n\nTo\n/brain/cortex.json"
+																																}
+																															],
+																															"reverseLinks": [
+																																[
+																																	"The Human Intelligence Protocol ",
+																																	"What gives you the right to clai",
+																																	"The Intelligence Algorithm is fo",
+																																	[
+																																		"The Human Intelligence Protocol ",
+																																		"What is the Intelligence Algorit",
+																																		"The Intelligence Algorithm is fo",
+																																		"You can't say that it's impossib",
+																																		"You can't say that 1+1=2 is alwa",
+																																		"That's not fair, you know that I",
+																																		"It's impossible to be right beca",
+																																		"Fine, then I can claim that 1+1=",
+																																		"You can't say that 1+1=2 because",
+																																		"Why is the idea \"it's impossible",
+																																		"It has been said by some that th",
+																																		"Choosing the statement, \"It's im",
+																																		"The statement \"It's impossible t",
+																																		"Our world is founded upon the no"
+																																	]
+																																]
+																															]
+																														}
+																													]
+																												}
+																											]
+																										}
+																									]
+																								}
+																							]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							],
+							"reverseLinks": [
+								[
+									"The Human Intelligence Protocol ",
+									"What gives you the right to clai",
+									"The Intelligence Algorithm is fo",
+									[
+										"The Human Intelligence Protocol ",
+										"What is the Intelligence Algorit"
+									]
+								]
+							]
+						},
+						{
+							"message": "What gives you the right to claim that such a system facilitates human collaboration in the most intelligent way?  Has this been endorsed by anybody with stature?",
+							"dialogs": [
+								{
+									"message": "The Intelligence Algorithm is founded upon truth-by-default, something which does not need to be proven because it's impossible to be right.  This is the natural way, evident by children who come into the world believing everything that they're told, unless they encounter a contradiction.  In other words, the burden of proof has been inverted, back to the way that it was meant to be.\n\nThis idea doesn't need to be endorsed by anyone of stature in order to be valid because information should stand on its own merits.  Why should something be true only because someone with accolades says so?  This mentality is, unfortunately, a side-effect of truth-by-default.  Young minds believe whatever is first fed into them, including the notion that we shouldn't believe anything which comes from unauthentic sources.  This is easy to see in others, like children who are born into certain religious settings, or soldiers around the world who are willing to die for competing causes. \n\nThe importance and value of this algorithm is self evident.  Consider one of the most intelligent endeavors undertaken by mankind, going to the moon and back safely.  Such a mission was so complex that it could only work if a group of people learned to collaborate by means of mistake-avoidance.  Everyone starts out believing that the mission will succeed.  If someone can find a single reason why it won't work then the team works to contradict the contradiction(s).  A vote is never taken before launch because intelligence gives rise to unanimity.   \n\nSimilarly, if anyone disagrees that the Intelligence Algorithm truly offers the most effective way to collaborate then they should attempt to contradict.  Someone would need to say what's wrong with it (-) and why (+) to be taken seriously.  This software makes that process easy and keeps the contradictions organized by means of the Can't/Because protocol.  Of course, that would just mean that they are using the Intelligence Algorithm in an attempt to discredit it.  That would create a form of hypocrisy, and for this reason the algorithm here to stay.",
+									"dialogs": [
+										{
+											"link": [
+												"The Human Intelligence Protocol ",
+												"What is the Intelligence Algorit",
+												"The Intelligence Algorithm is fo",
+												"You can't say that it's impossib"
+											],
+											"dialogs": [
+												{
+													"link": [
+														"The Human Intelligence Protocol ",
+														"What is the Intelligence Algorit",
+														"The Intelligence Algorithm is fo",
+														"You can't say that it's impossib",
+														"You can't say that 1+1=2 is alwa"
+													],
+													"dialogs": [
+														{
+															"link": [
+																"The Human Intelligence Protocol ",
+																"What is the Intelligence Algorit",
+																"The Intelligence Algorithm is fo",
+																"You can't say that it's impossib",
+																"You can't say that 1+1=2 is alwa",
+																"That's not fair, you know that I"
+															],
+															"dialogs": [
+																{
+																	"link": [
+																		"The Human Intelligence Protocol ",
+																		"What is the Intelligence Algorit",
+																		"The Intelligence Algorithm is fo",
+																		"You can't say that it's impossib",
+																		"You can't say that 1+1=2 is alwa",
+																		"That's not fair, you know that I",
+																		"It's impossible to be right beca"
+																	],
+																	"dialogs": [
+																		{
+																			"link": [
+																				"The Human Intelligence Protocol ",
+																				"What is the Intelligence Algorit",
+																				"The Intelligence Algorithm is fo",
+																				"You can't say that it's impossib",
+																				"You can't say that 1+1=2 is alwa",
+																				"That's not fair, you know that I",
+																				"It's impossible to be right beca",
+																				"Fine, then I can claim that 1+1="
+																			],
+																			"dialogs": [
+																				{
+																					"link": [
+																						"The Human Intelligence Protocol ",
+																						"What is the Intelligence Algorit",
+																						"The Intelligence Algorithm is fo",
+																						"You can't say that it's impossib",
+																						"You can't say that 1+1=2 is alwa",
+																						"That's not fair, you know that I",
+																						"It's impossible to be right beca",
+																						"Fine, then I can claim that 1+1=",
+																						"You can't say that 1+1=2 because"
+																					],
+																					"dialogs": [
+																						{
+																							"link": [
+																								"The Human Intelligence Protocol ",
+																								"What is the Intelligence Algorit",
+																								"The Intelligence Algorithm is fo",
+																								"You can't say that it's impossib",
+																								"You can't say that 1+1=2 is alwa",
+																								"That's not fair, you know that I",
+																								"It's impossible to be right beca",
+																								"Fine, then I can claim that 1+1=",
+																								"You can't say that 1+1=2 because",
+																								"Why is the idea \"it's impossible"
+																							],
+																							"dialogs": [
+																								{
+																									"link": [
+																										"The Human Intelligence Protocol ",
+																										"What is the Intelligence Algorit",
+																										"The Intelligence Algorithm is fo",
+																										"You can't say that it's impossib",
+																										"You can't say that 1+1=2 is alwa",
+																										"That's not fair, you know that I",
+																										"It's impossible to be right beca",
+																										"Fine, then I can claim that 1+1=",
+																										"You can't say that 1+1=2 because",
+																										"Why is the idea \"it's impossible",
+																										"It has been said by some that th"
+																									],
+																									"dialogs": [
+																										{
+																											"link": [
+																												"The Human Intelligence Protocol ",
+																												"What is the Intelligence Algorit",
+																												"The Intelligence Algorithm is fo",
+																												"You can't say that it's impossib",
+																												"You can't say that 1+1=2 is alwa",
+																												"That's not fair, you know that I",
+																												"It's impossible to be right beca",
+																												"Fine, then I can claim that 1+1=",
+																												"You can't say that 1+1=2 because",
+																												"Why is the idea \"it's impossible",
+																												"It has been said by some that th",
+																												"Choosing the statement, \"It's im"
+																											],
+																											"dialogs": [
+																												{
+																													"link": [
+																														"The Human Intelligence Protocol ",
+																														"What is the Intelligence Algorit",
+																														"The Intelligence Algorithm is fo",
+																														"You can't say that it's impossib",
+																														"You can't say that 1+1=2 is alwa",
+																														"That's not fair, you know that I",
+																														"It's impossible to be right beca",
+																														"Fine, then I can claim that 1+1=",
+																														"You can't say that 1+1=2 because",
+																														"Why is the idea \"it's impossible",
+																														"It has been said by some that th",
+																														"Choosing the statement, \"It's im",
+																														"The statement \"It's impossible t"
+																													],
+																													"dialogs": [
+																														{
+																															"link": [
+																																"The Human Intelligence Protocol ",
+																																"What is the Intelligence Algorit",
+																																"The Intelligence Algorithm is fo",
+																																"You can't say that it's impossib",
+																																"You can't say that 1+1=2 is alwa",
+																																"That's not fair, you know that I",
+																																"It's impossible to be right beca",
+																																"Fine, then I can claim that 1+1=",
+																																"You can't say that 1+1=2 because",
+																																"Why is the idea \"it's impossible",
+																																"It has been said by some that th",
+																																"Choosing the statement, \"It's im",
+																																"The statement \"It's impossible t",
+																																"Our world is founded upon the no"
+																															],
+																															"dialogs": [
+																																{
+																																	"link": [
+																																		"The Human Intelligence Protocol ",
+																																		"What is the Intelligence Algorit",
+																																		"The Intelligence Algorithm is fo",
+																																		"You can't say that it's impossib",
+																																		"You can't say that 1+1=2 is alwa",
+																																		"That's not fair, you know that I",
+																																		"It's impossible to be right beca",
+																																		"Fine, then I can claim that 1+1=",
+																																		"You can't say that 1+1=2 because",
+																																		"Why is the idea \"it's impossible",
+																																		"It has been said by some that th",
+																																		"Choosing the statement, \"It's im",
+																																		"The statement \"It's impossible t",
+																																		"Our world is founded upon the no",
+																																		"If it's impossible to be right t"
+																																	]
+																																}
+																															]
+																														}
+																													]
+																												}
+																											]
+																										}
+																									]
+																								}
+																							]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"link": [
+												"The Human Intelligence Protocol ",
+												"What is the Intelligence Algorit"
+											],
+											"dialogs": [
+												{
+													"link": [
+														"The Human Intelligence Protocol ",
+														"What is the Intelligence Algorit",
+														"The Intelligence Algorithm is fo"
+													],
+													"dialogs": [
+														{
+															"link": [
+																"The Human Intelligence Protocol ",
+																"What is the Intelligence Algorit",
+																"The Intelligence Algorithm is fo",
+																"You can't say that it's impossib"
+															],
+															"dialogs": [
+																{
+																	"link": [
+																		"The Human Intelligence Protocol ",
+																		"What is the Intelligence Algorit",
+																		"The Intelligence Algorithm is fo",
+																		"You can't say that it's impossib",
+																		"You can't say that 1+1=2 is alwa"
+																	],
+																	"dialogs": [
+																		{
+																			"link": [
+																				"The Human Intelligence Protocol ",
+																				"What is the Intelligence Algorit",
+																				"The Intelligence Algorithm is fo",
+																				"You can't say that it's impossib",
+																				"You can't say that 1+1=2 is alwa",
+																				"That's not fair, you know that I"
+																			],
+																			"dialogs": [
+																				{
+																					"link": [
+																						"The Human Intelligence Protocol ",
+																						"What is the Intelligence Algorit",
+																						"The Intelligence Algorithm is fo",
+																						"You can't say that it's impossib",
+																						"You can't say that 1+1=2 is alwa",
+																						"That's not fair, you know that I",
+																						"It's impossible to be right beca"
+																					],
+																					"dialogs": [
+																						{
+																							"link": [
+																								"The Human Intelligence Protocol ",
+																								"What is the Intelligence Algorit",
+																								"The Intelligence Algorithm is fo",
+																								"You can't say that it's impossib",
+																								"You can't say that 1+1=2 is alwa",
+																								"That's not fair, you know that I",
+																								"It's impossible to be right beca",
+																								"Fine, then I can claim that 1+1="
+																							],
+																							"dialogs": [
+																								{
+																									"link": [
+																										"The Human Intelligence Protocol ",
+																										"What is the Intelligence Algorit",
+																										"The Intelligence Algorithm is fo",
+																										"You can't say that it's impossib",
+																										"You can't say that 1+1=2 is alwa",
+																										"That's not fair, you know that I",
+																										"It's impossible to be right beca",
+																										"Fine, then I can claim that 1+1=",
+																										"You can't say that 1+1=2 because"
+																									],
+																									"dialogs": [
+																										{
+																											"link": [
+																												"The Human Intelligence Protocol ",
+																												"What is the Intelligence Algorit",
+																												"The Intelligence Algorithm is fo",
+																												"You can't say that it's impossib",
+																												"You can't say that 1+1=2 is alwa",
+																												"That's not fair, you know that I",
+																												"It's impossible to be right beca",
+																												"Fine, then I can claim that 1+1=",
+																												"You can't say that 1+1=2 because",
+																												"Why is the idea \"it's impossible"
+																											],
+																											"dialogs": [
+																												{
+																													"link": [
+																														"The Human Intelligence Protocol ",
+																														"What is the Intelligence Algorit",
+																														"The Intelligence Algorithm is fo",
+																														"You can't say that it's impossib",
+																														"You can't say that 1+1=2 is alwa",
+																														"That's not fair, you know that I",
+																														"It's impossible to be right beca",
+																														"Fine, then I can claim that 1+1=",
+																														"You can't say that 1+1=2 because",
+																														"Why is the idea \"it's impossible",
+																														"It has been said by some that th"
+																													],
+																													"dialogs": [
+																														{
+																															"link": [
+																																"The Human Intelligence Protocol ",
+																																"What is the Intelligence Algorit",
+																																"The Intelligence Algorithm is fo",
+																																"You can't say that it's impossib",
+																																"You can't say that 1+1=2 is alwa",
+																																"That's not fair, you know that I",
+																																"It's impossible to be right beca",
+																																"Fine, then I can claim that 1+1=",
+																																"You can't say that 1+1=2 because",
+																																"Why is the idea \"it's impossible",
+																																"It has been said by some that th",
+																																"Choosing the statement, \"It's im"
+																															],
+																															"dialogs": [
+																																{
+																																	"link": [
+																																		"The Human Intelligence Protocol ",
+																																		"What is the Intelligence Algorit",
+																																		"The Intelligence Algorithm is fo",
+																																		"You can't say that it's impossib",
+																																		"You can't say that 1+1=2 is alwa",
+																																		"That's not fair, you know that I",
+																																		"It's impossible to be right beca",
+																																		"Fine, then I can claim that 1+1=",
+																																		"You can't say that 1+1=2 because",
+																																		"Why is the idea \"it's impossible",
+																																		"It has been said by some that th",
+																																		"Choosing the statement, \"It's im",
+																																		"The statement \"It's impossible t"
+																																	],
+																																	"dialogs": [
+																																		{
+																																			"link": [
+																																				"The Human Intelligence Protocol ",
+																																				"What is the Intelligence Algorit",
+																																				"The Intelligence Algorithm is fo",
+																																				"You can't say that it's impossib",
+																																				"You can't say that 1+1=2 is alwa",
+																																				"That's not fair, you know that I",
+																																				"It's impossible to be right beca",
+																																				"Fine, then I can claim that 1+1=",
+																																				"You can't say that 1+1=2 because",
+																																				"Why is the idea \"it's impossible",
+																																				"It has been said by some that th",
+																																				"Choosing the statement, \"It's im",
+																																				"The statement \"It's impossible t",
+																																				"Our world is founded upon the no"
+																																			],
+																																			"dialogs": [
+																																				{
+																																					"link": [
+																																						"The Human Intelligence Protocol ",
+																																						"What is the Intelligence Algorit",
+																																						"The Intelligence Algorithm is fo",
+																																						"You can't say that it's impossib",
+																																						"You can't say that 1+1=2 is alwa",
+																																						"That's not fair, you know that I",
+																																						"It's impossible to be right beca",
+																																						"Fine, then I can claim that 1+1=",
+																																						"You can't say that 1+1=2 because",
+																																						"Why is the idea \"it's impossible",
+																																						"It has been said by some that th",
+																																						"Choosing the statement, \"It's im",
+																																						"The statement \"It's impossible t",
+																																						"Our world is founded upon the no",
+																																						"If it's impossible to be right t"
+																																					]
+																																				}
+																																			]
+																																		}
+																																	]
+																																}
+																															]
+																														}
+																													]
+																												}
+																											]
+																										}
+																									]
+																								}
+																							]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"link": [
+												"The Human Intelligence Protocol ",
+												"What is the Intelligence Algorit",
+												"The Intelligence Algorithm is fo",
+												"You can't say that it's impossib",
+												"You can't say that 1+1=2 is alwa",
+												"That's not fair, you know that I",
+												"It's impossible to be right beca",
+												"Fine, then I can claim that 1+1=",
+												"You can't say that 1+1=2 because",
+												"Why is the idea \"it's impossible",
+												"It has been said by some that th",
+												"Choosing the statement, \"It's im",
+												"The statement \"It's impossible t",
+												"Our world is founded upon the no"
+											],
+											"dialogs": [
+												{
+													"link": [
+														"The Human Intelligence Protocol ",
+														"What is the Intelligence Algorit",
+														"The Intelligence Algorithm is fo",
+														"You can't say that it's impossib",
+														"You can't say that 1+1=2 is alwa",
+														"That's not fair, you know that I",
+														"It's impossible to be right beca",
+														"Fine, then I can claim that 1+1=",
+														"You can't say that 1+1=2 because",
+														"Why is the idea \"it's impossible",
+														"It has been said by some that th",
+														"Choosing the statement, \"It's im",
+														"The statement \"It's impossible t",
+														"Our world is founded upon the no",
+														"If it's impossible to be right t"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"domainName": "To-Do List",
+			"dialogs": [
+				{
+					"message": "PERFORMANCE\n======================================================\n\nThe HIPI is meant to run locally and a great majority of the code executes synchronously.  This is a work-in-progress and conventional wisdom recommends building applications without concern for performance on the first revision.  It's difficult to predict where bottlenecks will emerge and developers frequently spend time working on things which become irrelevant.  \n\nThe HIPI has been used by some talented writers and great thinkers who have exposed numerous growing pains in the software.  For those that are interested, a database of significant size can be found at the following path: \"/brain/Peace-On-Earth.json\".  It was not foreseen that such an enormous size would result from the exponential growth of \"symbolic linking\".  This is the major underlying cause for the following issues...\n  \n\nProblems\n-----------------------------\n  1) The system utilizes a \"flux architecture\" with a single store and many \"pure functions\".  There are some functions which are unnecessarily duplicating the global store via JSON.parse(JSON.stringify(largeStore)).\n\n  2) When the application first starts, all of the pathways are analyzed for \"depth\", \"answered status\", and \"contradiction status\".  All entries in the global store are tagged with such keys for caching and these remain valid throughout the lifetime of the application.  In other words, this is just a matter of start-up time but it can grow significantly annoying because users aren't sure how long they will have to wait.  For example, some browsers have been seen working on \"/brain/Peace-On-Earth.json\" up to a full minute while repeatedly showing the \"browser has become unresponsive\" message.\n\n  3) Any operation which alters the database (i.e. adding a message or a contradiction) automatically the exports the state of the application to disk.  The global store is run through the \"state cleaner\" in order to remove cached data.  Then a clean JSON store is posted to the Node process through an AJAX request.\n\n\nSolutions\n-----------------------------\nThe following solutions have been proposed but if anyone has better ideas, please consider adding a new Base Message on the \"To-Do List\" domain and contradicting this one.\n\n  1) Pass by reference in various places, identified through the browser's Performance Developer Tools.\n\n  2) The work for the \"INITIALIZE_STORE\" action can be performed in a Web Worker.  Somehow it should provide feedback via messaging so that the user gets a progress bar.  \n\n  3) The \"database export\" could occur in the background through a Web Worker.  There's no reason for the operation to block user input because multiple calls to \"export\" will simply accumulate in a queue.  Maybe some kind of an asynchronous-driven notification can be conveyed in the Nav Bar so that users are aware of the background process.",
+					"dialogs": [
+						{
+							"message": "Why does the \"state cleaner\" need to remove the cached \"contradiction status\", \"depth\", and \"answers status\" properties?  Why can't those values just be saved to disk?",
+							"dialogs": [
+								{
+									"message": "The HIPI has been liberated from centralized control for some important reasons.  Collaboration is achieved through the merging of flat files, likely through version control software.  This application utilizes an add-only database architecture.  Even the removal/deletion of entries is facilitated through the addition of contradictions, analogous whiteout over ink.\n\nPeople may receive updates to the database as sets of additions, however the rest of the data may differ between individuals.  For example, if one person receives a message record which has already been contradicted in their local database then the \"depth\" values will not match.  The three properties are called \"cached\" because the values can be inferred from the presence of ancestor/descendant records.\n\n  * Contradiction Status - Says if a record is contradicted by the presence of descendant contradiction(s).  This status is essentially the Boolean output from the Intelligence Algorithm.  It's important to recognize that contradictions are always attached locally, and that goes for every instance of a symbolic link.  Contradicting a message, even the source, has no effect upon the links which have been made, or visa versa.  For this reason every single possible pathway in the database must be examined for its \"contradiction status\".\n\n  * Depth - This refers to the maximum height of the dialog tree (not including contradictions).  It is important to consider the presence of symbolic links too, they are considered to be equal to source Messages for the purpose of depth calculation.\n\n  * Answered Status - Similar to the way that a Message alternates between TRUE/FALSE from the presence of contradictions in a chain or a tree, Messages alternate between ANSWERED/UNANSWERED depending upon the presence of other descendant Messages (symbolic links or not).",
+									"dialogs": [
+										{
+											"message": "What if every user maintains a personal database file which is separate from the public facing JSON file?  Maybe the user could hit an \"export button\" which would run the global store through the \"state cleaner\" and save it to disk?  That way the user would be able to use their local file most of the time which keeps the cached properties intact.",
+											"dialogs": [
+												{
+													"message": "That's actually a really good idea.  The only problem is that there's not a great way for the system to know if the public-facing JSON file has been updated through version control.  When should the application rebuild the private store using the public one?"
+												}
+											]
+										},
+										{
+											"message": "Why is it important to liberate the HIPI from centralized control?",
+											"dialogs": [
+												{
+													"message": "The discussion regarding \"central control\" has a vast scope, meaning that such a dialog meanders into topics like communism, self-sufficiency, censorship, and Internet 2.0.  If you're ready for a larger discussion, please have a look at another database which can be found within a folder of this application ...\n/brain/Peace-On-Earth.json\n\nThat being said, if the HIPI doesn't catch on as it is hoped, maybe someone would be willing to fork the project and create a version which works as a public web-service?  This would certainly lower the barrier for the types of users who are scared of opening a command window on their PC."
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"message": "I've seen the database file \"/brain/Peace-On-Earth.json\" which is nearly 30 Mb.  No wonder it takes a while for the HIPI to start-up.  Most of the records in the JSON file are the result of superfluous \"links\".  I say that they're superfluous because if I add a new link then a complete copy of the source message's descendant tree is rendered through something called \"shadow links\".\n\nWhy can't the \"shadow links\" just be inferred at run-time whenever the user visits a place in the dialog where it matters?  Why do all of the \"shadow links\" need to be calculated ahead of time when there's a very good chanced that the user will never visit any of those messages in the dialog?",
+							"dialogs": [
+								{
+									"message": "The decision to create \"shadow links\" followed numerous failed attempts at solving the linking problem otherwise.  It may seem redundant to keep copies of the links but turned out to be extremely helpful for the following reasons.\n\n 1) Contradiction Status:  Says if a record is contradicted by the presence of descendant contradiction(s). This status is essentially the Boolean output from the Intelligence Algorithm. It's important to recognize that contradictions are always attached locally, and that goes for every instance of a symbolic link. Contradicting a message, even the source, has no effect upon the links which have been made, or visa versa. For this reason every single possible pathway in the database must be examined for its \"contradiction status\". \n\n 2) Depth:  This refers to the maximum height of the dialog tree (not including contradictions). It is important to consider the presence of symbolic links too, they are considered to be equal to source Messages for the purpose of depth calculation.\n\n 3) Answered Status:  Similar to the way that a Message alternates between TRUE/FALSE from the presence of contradictions in a chain or a tree, Messages alternate between ANSWERED/UNANSWERED depending upon the presence of other descendant Messages (symbolic links or not).\n\n\nThat doesn't mean that there's not a good way to solve these issues without using \"shadow links\", it's just that I haven't found it yet."
+								}
+							]
+						},
+						{
+							"message": "Perhaps long-running functions should be adapted to use \"streams\" instead of remaining synchronous through Web Workers?  This way users can see activity within the user interface instead of waiting for everything to finish.  The browser won't lock up if it has time to breath between iterations of the stream.  It's just better if the application adopts a consistent pattern/interface for asynchronous operations.  Later on the stream source could even be move into a Web Worker for added performance.\n\nHere are a couple of examples...\n\n * If a Map takes a long time to render, users can still interact with the parts that they can see.\n\n * If it takes a long time to calculate \"suggested contradictions\" then at least users can start reading entries which first start appearing.  The longer they wait, the more options they will have."
+						}
+					]
+				},
+				{
+					"message": "Global Contradiction Database\n==========================================\n\nContradictions in the HIPI are timeless because context becomes self-contained through the combination of CANT and CUZ.  As a result, Contradictions are shared across multiple domains in the HIPI whereas \"symbolic links\" are confined to the domain where they were added.  \n\nThe first version of this software did not account for the possibility of having multiple \"cortex files\".  Contradictions should really be shared across all \"cortex files\" in addition to all domains.  This becomes the mechanism for sharing wisdom across diverse subjects.  For example, blogs quickly deviate from the original subject and when similar context is encountered beneath separate articles, there's no way for relevant thoughts to transcend their scope.  More people would be willing to contribute if their ideas didn't become buried under pagination.  This is a problem which \"universal contradictions\" aims to solve.\n\nBecause the HIPI runs locally it must be capable of holding all of the world's contradictions in the browser, or at least the ones which the user has encountered.  This will require careful planning and indexing, likely a job for Web SQL.",
+					"dialogs": [
+						{
+							"message": "Why can't the world's contradictions just be centralized in the cloud, accessible through a web service?",
+							"dialogs": [
+								{
+									"message": "The world \"centralized\" has become kind of a bad word in the context of intelligence.  The scope of this argument is too vast to be carried out in this domain and it would result in duplicate content.  To understand why local data is so important, please continue this dialog within the following database: \n/brain/Peace-On-Earth.json",
+									"dialogs": [
+										{
+											"message": "Yes, but the answer is always both and Contradictions are fundamentally inverse.  A global pool of contradictions, which is available through a public web-service, doesn't necessarily have to run through today's DNS system.  The HIPI discusses alternatives for decentralizing global information through what it calls Internet 2.0."
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"message": "MAP - Symbolic Links\n==========================================\nThe HIPI's Map works OK for small domains but becomes unusable for large databases with many symbolic links.\n\nIf anyone has a good idea on how to deal with mapping symbolic links, please contradict this message and/or add another base message which describes the plan.  Maybe the map always excludes symbolic links unless the user is on \"virtual pathway\"?"
+				},
+				{
+					"message": "MAP - Contradictions\n==========================================\nCurrently the HIPI's Map only displays Messages, it would be useful to visualize Contradictions in addition.  It can be said that Contradictions are relatively inverse, exhibiting the usual 2-for-1 signature.  There are many ways to depict such inversions, as described in the database \"/brain/Peace-On-Earth.json\".  \n\nOne option is to spin the Map into a 3D isometric view whenever a node (i.e. Message) is selected by the user.  A \"contradiction tree\" could then be rendered in a way that is relatively perpendicular, or vertical, to the message arrangements."
+				}
+			]
+		}
+	],
+	"selectedDomain": "About The HIPI"
+}
